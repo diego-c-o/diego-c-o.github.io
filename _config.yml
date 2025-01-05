@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Cosas que escribo", icon: home}
-  - {file: "README.md", title: "Acerca de mí", icon: address-card}
+  - {file: "index.html", title: "Cosas que escribo"}
+  - {file: "README.md", title: "Acerca de mí"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:diego.cabrera.o@usach.cl"}
