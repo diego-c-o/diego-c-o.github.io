@@ -10,9 +10,4 @@ mathjax: true
 prueda de contenido
 
 -hola
--que tal 
-
-\begin{align*}
-  2x+ 3 &= 2\\
-  2x + 32 &= 45
-\end{align*}
+-que tal supongamos \[2 x + 3=2 \]
