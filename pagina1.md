@@ -12,4 +12,7 @@ prueda de contenido
 -hola
 -que tal 
 
-$2x + 3 = 5$
+\begin{align*}
+  2x+ 3 &= 2\\
+  2x + 32 &= 45
+\end{align*}
