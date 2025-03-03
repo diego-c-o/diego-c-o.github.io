@@ -1,13 +1,12 @@
 ---
-title: "pagina1"
-permalink: "/pagina1/"
+title: "Escritura y fotografía"
+permalink: "/Escritura y fotografía/"
 layout: page
 mathjax: true
 ---
 
-## prueba de titulo
+## Algunas cosas que he escrito
 
-prueda de contenido
+Supongamos que un día me da la cuestión y comienzo a escribir fantasía, ¿un poco extraño verdad? Pero y si escribiéramos poesía, cuál sería la algarabía. La predisposión del arte de la juventud y la monotonía. 
 
--hola
--que tal supongamos \[2 x + 3=2 \]
+La escritura sin emoción, muerta. Ha fallecido el humor, cuesta.
