@@ -9,4 +9,6 @@ mathjax: true
 
 Supongamos que un día me da la cuestión y comienzo a escribir fantasía, ¿un poco extraño verdad? Pero y si escribiéramos poesía, cuál sería la algarabía. La predisposión del arte de la juventud y la monotonía. 
 
-La escritura sin emoción, muerta. Ha fallecido el humor, cuesta.
+> La escritura sin emoción, muerta. Ha fallecido el humor, cuesta.
+
+[titulo 1](assets/J.J.pdf) 
